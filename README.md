@@ -5,11 +5,17 @@ In this repo the standards for uploading code to git for research are given. The
 ## Table of Contents
 
 [Getting Started](#getting-started)
+
 [File Structure](#file-structure)
+
 [Using Git](#using-git)
+
 [Project Boards](#project-boards)
+
 [Creating an Issue](#creating-an-issue)
+
 [Closing an Issue](#closing-an-issue)
+
 [Python Styleguide](#python-styleguide)
 
 ## Getting Started
